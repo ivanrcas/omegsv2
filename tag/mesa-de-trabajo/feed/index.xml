@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mesa de trabajo &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Tue, 01 Jul 2025 00:19:06 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>mesa de trabajo &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mesa Agendas Territoriales de Paz</title>
+		<link>./../../../2024/10/09/mesa-agendas-territoriales-de-paz/index.html</link>
+					<comments>./../../../2024/10/09/mesa-agendas-territoriales-de-paz/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2024 05:00:00 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Encuentro]]></category>
+		<category><![CDATA[mesa de trabajo]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1281</guid>
+
+					<description><![CDATA[El OMEGS le apuesta a la construcción de las Agendas Territoriales de Paz en Santander ]]></description>
+										<content:encoded><![CDATA[
+<p>El pasado 9 de octubre se llevó a cabo una mesa de trabajo con diversos actores institucionales para la construcción colectiva de las Agendas Territoriales de Paz. Allí, se dio especial atención a la agenda liderada por la Agencia para la Reincorporación y la Normalización &#8211; ARN- en el sector de Los Colorados, en Ciudad Norte de Bucaramanga.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2024/10/09/mesa-agendas-territoriales-de-paz/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

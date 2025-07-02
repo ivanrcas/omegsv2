@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>comunicación &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Tue, 01 Jul 2025 00:43:34 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>comunicación &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Día de la mujer en medios de comunicación</title>
+		<link>./../../../2024/09/14/dia-de-la-mujer-en-medios-de-comunicacion/index.html</link>
+					<comments>./../../../2024/09/14/dia-de-la-mujer-en-medios-de-comunicacion/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Sat, 14 Sep 2024 05:00:00 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[comunicación]]></category>
+		<category><![CDATA[conmemoración]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1302</guid>
+
+					<description><![CDATA[El 14 de septiembre se celebra el Día latinoamericano de la imagen de la mujer en los medios de comunicación. ]]></description>
+										<content:encoded><![CDATA[
+<p>La Asamblea General de las Naciones Unidas designó el 15 de septiembre como el Día internacional de la democracia. El Observatorio de Mujeres y Equidad de Género de Santander subraya la importancia de crear espacios en las instancias ciudadanas e institucionales que fomenten una democracia efectiva, asegurando la inclusión de las mujeres desde una perspectiva de igualdad sustantiva en el departamento.</p>
+
+
+
+<p><a href="https://drive.google.com/file/d/1Uay8BD9IS5bABvebbTDtSlNGCAc1Cj4_/view?usp=sharing" target="_blank" rel="noreferrer noopener">MAYOR INFORMACION</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2024/09/14/dia-de-la-mujer-en-medios-de-comunicacion/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Día latinoamericano de la imagen de la mujer en los medios</title>
+		<link>./../../../2023/09/13/dia-latinoamericano-de-la-imagen-de-la-mujer-en-los-medios/index.html</link>
+					<comments>./../../../2023/09/13/dia-latinoamericano-de-la-imagen-de-la-mujer-en-los-medios/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Wed, 13 Sep 2023 05:00:00 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[comunicación]]></category>
+		<category><![CDATA[conmemoración]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1310</guid>
+
+					<description><![CDATA[El 14 de septiembre se conmemora el día latinoamericano de la imagen de la mujer en los medios. ]]></description>
+										<content:encoded><![CDATA[
+<p>El 14 de septiembre se conmemora el día latinoamericano de la imagen de la mujer en los medios. El OMEGS invita a los medios de comunicación y periodísticos a proyectar a las mujeres como son: diversas, dignas, autónomas, reconociendo su estatus como sujeto de derechos y evitar reproducir imágenes estereotipadas.</p>
+
+
+
+<p><a href="https://drive.google.com/file/d/1gl4Ru6i9FtJ4KPZ7QQ5HZ9PJ5F3ovevt/view?usp=sharing">MAYOR INFORMACIÓN</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/09/13/dia-latinoamericano-de-la-imagen-de-la-mujer-en-los-medios/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

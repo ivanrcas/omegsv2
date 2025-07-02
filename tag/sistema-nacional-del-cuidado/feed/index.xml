@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sistema Nacional del Cuidado &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Mon, 30 Jun 2025 18:25:08 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>Sistema Nacional del Cuidado &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Panorama actual del Sistema Nacional del Cuidado y El Feminicidio en Colombia</title>
+		<link>./../../../2023/10/31/panorama-actual-del-sistema-nacional-del-cuidado-y-el-feminicidio-en-colombia/index.html</link>
+					<comments>./../../../2023/10/31/panorama-actual-del-sistema-nacional-del-cuidado-y-el-feminicidio-en-colombia/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Tue, 31 Oct 2023 05:00:00 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Sistema Nacional del Cuidado]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1200</guid>
+
+					<description><![CDATA[Retos a enfrentar para la garantía de derechos de las mujeres desde las instituciones. ]]></description>
+										<content:encoded><![CDATA[
+<p>Desde la Universidad Pontificia Bolivariana &#8211; Facultad de Ciencias Políticas y Gobierno y la Secretaría de la Mujer y Equidad de Género &#8211; Observatorio de Mujeres y Equidad de Género en Santander, nos place invitar a la comunidad en general al Foro: Panorama actual del Sistema Nacional del Cuidado y El Feminicidio en Colombia.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/10/31/panorama-actual-del-sistema-nacional-del-cuidado-y-el-feminicidio-en-colombia/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

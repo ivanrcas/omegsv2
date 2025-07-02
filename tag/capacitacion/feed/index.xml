@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>capacitación &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Mon, 30 Jun 2025 18:15:57 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>capacitación &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Segunda acción de formación a funcionarias (os) de la Administración Departamental</title>
+		<link>./../../../2024/10/11/segunda-accion-de-formacion-a-funcionarias-os-de-la-administracion-departamental/index.html</link>
+					<comments>./../../../2024/10/11/segunda-accion-de-formacion-a-funcionarias-os-de-la-administracion-departamental/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Fri, 11 Oct 2024 05:00:00 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[capacitación]]></category>
+		<category><![CDATA[ODS]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1191</guid>
+
+					<description><![CDATA[Capacitación exitosa #ODS con enfoque de género. ]]></description>
+										<content:encoded><![CDATA[
+<p>Capacitación exitosa #ODS con enfoque de género.</p>
+
+
+
+<p>Hemos escuchado hablar bastante sobre los Objetivos de Desarrollo Sostenible #ODS y la necesidad de trabajar desde la institucionalidad para alcanzar lo planteado en la Agenda de Desarrollo para el año 2030. Sin embargo, nos queda una pregunta ¿En dónde quedan las mujeres en medio de todo esto?</p>
+
+
+
+<p>Si bien existe el Objetivo 5, enfocado en la igualdad de género, se considera muy importante abordar cada uno de los objetivos desde la perspectiva de género como eje transversal a todas las acciones encaminadas a alcanzar un futuro próspero para todas y todos.</p>
+
+
+
+<p>Gracias a quienes desde su labor en la función pública, han adoptado la escucha activa para actuar acorde a una ciudadanía comprometida con la garantía plena de derechos</p>
+
+
+
+<p>¿Ya habías escuchado hablar de la transversalización? Cuéntanos en los comentarios</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2024/10/11/segunda-accion-de-formacion-a-funcionarias-os-de-la-administracion-departamental/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Primera acción de formación con la Secretaría de la Mujer y Equidad de Género de Santander</title>
+		<link>./../../../2024/10/08/primera-accion-de-formacion-con-la-secretaria-de-la-mujer-y-equidad-de-genero-de-santander/index.html</link>
+					<comments>./../../../2024/10/08/primera-accion-de-formacion-con-la-secretaria-de-la-mujer-y-equidad-de-genero-de-santander/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Tue, 08 Oct 2024 05:00:00 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[capacitación]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1194</guid>
+
+					<description><![CDATA[Recientemente tuvimos la oportunidad de presentar la trayectoria y el trabajo del OMEGS ante funcionarias, funcionarios y contratistas de la Secretaría de la Mujer y Equidad de Género de Santander ]]></description>
+										<content:encoded><![CDATA[
+<p>Recientemente tuvimos la oportunidad de presentar la trayectoria y el trabajo del OMEGS ante funcionarias, funcionarios y contratistas de la Secretaría de la Mujer y Equidad de Género de #Santander.</p>
+
+
+
+<p>Conversamos sobre la existencia y la utilidad de un sistema de indicadores actualizados para hacer seguimiento a compromisos y acciones encaminadas a garantizar los derechos y las condiciones de vida de las #mujeres en Santander, de acuerdo con los ejes temáticos de la Política Departamental de Mujer y Equidad de Género.</p>
+
+
+
+<p>En el OMEGS valoramos los beneficios del trabajo en redes colaborativas, y en estos espacios, reafirmamos que la colaboración entre entes gubernamentales y la academia es fundamental para construir territorios que promuevan la igualdad y el progreso para todas y todos.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2024/10/08/primera-accion-de-formacion-con-la-secretaria-de-la-mujer-y-equidad-de-genero-de-santander/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

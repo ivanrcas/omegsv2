@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mujeres indigenas &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Tue, 01 Jul 2025 00:45:11 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>mujeres indigenas &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Día internacional de las mujeres indígenas</title>
+		<link>./../../../2023/09/03/dia-internacional-de-las-mujeres-indigenas/index.html</link>
+					<comments>./../../../2023/09/03/dia-internacional-de-las-mujeres-indigenas/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Sun, 03 Sep 2023 05:00:00 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[conmemoración]]></category>
+		<category><![CDATA[mujeres indigenas]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1313</guid>
+
+					<description><![CDATA[El 05 de septiembre se conmemora el día internacional de las mujeres indígenas. ]]></description>
+										<content:encoded><![CDATA[
+<p>El 05 de septiembre se conmemora el día internacional de las mujeres indígenas. El OMEGS rinde un homenaje a estas mujeres que han luchado por la defensa de sus pueblos, en contra de las desigualdades que afrontan como consecuencia del estigma, la discriminación y la invisibilidad de su cosmovisión y cultura.</p>
+
+
+
+<p><a href="https://drive.google.com/file/d/1BJQjXpuDpifVM_Chubyw9rlS2zUIx8so/view?usp=sharing">MAYOR INFORMACIÓN</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/09/03/dia-internacional-de-las-mujeres-indigenas/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

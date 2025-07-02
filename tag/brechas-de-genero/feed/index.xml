@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>brechas de género &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Mon, 30 Jun 2025 18:18:17 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>brechas de género &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Panorama actual de las brechas de género en Santander: Retos a enfrentar desde las instituciones</title>
+		<link>./../../../2023/12/04/panorama-actual-de-las-brechas-de-genero-en-santander-retos-a-enfrentar-desde-las-instituciones/index.html</link>
+					<comments>./../../../2023/12/04/panorama-actual-de-las-brechas-de-genero-en-santander-retos-a-enfrentar-desde-las-instituciones/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Mon, 04 Dec 2023 05:00:00 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[brechas de género]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1197</guid>
+
+					<description><![CDATA[Desde la Secretaria de la Mujer y Equidad de Género y la Universidad Industrial de Santander - Observatorio de Mujeres y Equidad de Género en Santander OMEGS, nos place invitar a la comunidad Santanderiana al evento. ]]></description>
+										<content:encoded><![CDATA[
+<p>Contaremos con la ponente nacional María Eugenia Morales, experta en temas de Paz, Seguridad y Mujer, y actual consultora de ONU Mujeres para la construcción del Plan de Acción Nacional de la Resolución 1325 del 31 de octubre del 200.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/12/04/panorama-actual-de-las-brechas-de-genero-en-santander-retos-a-enfrentar-desde-las-instituciones/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

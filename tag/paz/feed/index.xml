@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>paz &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Tue, 01 Jul 2025 00:52:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>paz &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Día internacional de la paz</title>
+		<link>./../../../2024/09/21/dia-internacional-de-la-paz/index.html</link>
+					<comments>./../../../2024/09/21/dia-internacional-de-la-paz/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Sat, 21 Sep 2024 05:00:00 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[conmemoración]]></category>
+		<category><![CDATA[paz]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1296</guid>
+
+					<description><![CDATA[En el día Internacional de La Paz, el Observatorio de Mujeres y Equidad de Género de Santander resalta la importancia de generar garantías de seguridad para la construcción de paz en los territorios. ]]></description>
+										<content:encoded><![CDATA[
+<p>En el día Internacional de La Paz, el Observatorio de Mujeres y Equidad de Género de Santander resalta la importancia de generar garantías de seguridad para la construcción de paz en los territorios. Igualmente, destaca las apuestas de inclusión de las mujeres reincorporadas a través de la formación académica, así como la promoción de su autonomía económica. Esto representa un avance significativo para la consolidación de una paz estable y duradera.</p>
+
+
+
+<p><a href="https://drive.google.com/file/d/16NB86DTDkzNTF9LbsNgZq0QH4rQkoTkU/view?usp=drive_link" target="_blank" rel="noreferrer noopener">MAYOR INFORMACIÓN</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2024/09/21/dia-internacional-de-la-paz/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Día internacional de las mujeres por la paz y el desarme</title>
+		<link>./../../../2023/05/23/dia-internacional-de-las-mujeres-por-la-paz-y-el-desarme/index.html</link>
+					<comments>./../../../2023/05/23/dia-internacional-de-las-mujeres-por-la-paz-y-el-desarme/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Tue, 23 May 2023 05:00:00 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[conmemoración]]></category>
+		<category><![CDATA[paz]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1327</guid>
+
+					<description><![CDATA[El 24 de mayo se conmemora el Día internacional de las mujeres por la paz y el desarme. El OMEGS se une al reconocimiento del papel de las mujeres en la construcción de paz en Colombia y visibiliza las afectaciones del conflicto en la vida de las lideresas sociales. ]]></description>
+										<content:encoded><![CDATA[
+<p>El 24 de mayo se conmemora el Día internacional de las mujeres por la paz y el desarme. El OMEGS se une al reconocimiento del papel de las mujeres en la construcción de paz en Colombia y visibiliza las afectaciones del conflicto en la vida de las lideresas sociales.&nbsp;</p>
+
+
+
+<p>#MujeresPorLaVida</p>
+
+
+
+<p><a href="https://drive.google.com/file/d/1dPn8ojhs0mxjnKpS9wb46ar98mcX8g7W/view?usp=sharing">MAYOR INFORMACIÓN</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/05/23/dia-internacional-de-las-mujeres-por-la-paz-y-el-desarme/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

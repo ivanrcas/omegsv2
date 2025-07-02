@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>igualdad &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Tue, 01 Jul 2025 00:42:23 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>igualdad &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dia de la igualdad salarial</title>
+		<link>./../../../2024/09/18/dia-de-la-igualdad-salarial/index.html</link>
+					<comments>./../../../2024/09/18/dia-de-la-igualdad-salarial/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Wed, 18 Sep 2024 05:00:00 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[conmemoración]]></category>
+		<category><![CDATA[igualdad]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1298</guid>
+
+					<description><![CDATA[El 18 de septiembre se conmemora el Día internacional de la igualdad salarial. Esta fecha marca un hito por los derechos humanos y el fin de todas las formas de discriminación. ]]></description>
+										<content:encoded><![CDATA[
+<p>Hoy, 10 de diciembre de 2023, se conmemoran 75 años de uno de los compromisos a nivel mundial más revolucionarios: la Declaración Universal de los Derechos Humanos (DUDH). Los derechos humanos son indivisibles, inalienables, universales e inherentes a todas las personas independientemente de su sexo, género, raza, etnia, clase, discapacidad, nacionalidad, posición política o situación socioeconómica, entre otros aspectos. El Observatorio de Mujeres y Equidad de Género de Santander (OMEGS) hace un llamado a la promoción de los derechos de las mujeres en todos los ámbitos de la vida y aboga por poner fin a la violencia basada en el género.</p>
+
+
+
+<p><a href="http://drive.google.com/file/d/1eW322jaHT0h1T9DfWgitowPFQR07hRhh/view?usp=sharing" target="_blank" rel="noreferrer noopener">MAYOR INFORMACIÓN</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2024/09/18/dia-de-la-igualdad-salarial/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Día internacional de igualdad salarial</title>
+		<link>./../../../2023/09/17/dia-internacional-de-igualdad-salarial/index.html</link>
+					<comments>./../../../2023/09/17/dia-internacional-de-igualdad-salarial/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Sun, 17 Sep 2023 05:00:00 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[conmemoración]]></category>
+		<category><![CDATA[igualdad]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1308</guid>
+
+					<description><![CDATA[El 18 de septiembre se celebra el día internacional de la igualdad salarial. ]]></description>
+										<content:encoded><![CDATA[
+<p>El 18 de septiembre se celebra el día internacional de la igualdad salarial. El OMEGS invita a todas las empresas, organizaciones, instituciones y a la comunidad en general, a promover la justicia remunerativa y la autonomía económica de las mujeres.</p>
+
+
+
+<p><a href="https://drive.google.com/file/d/1KU07Y--TyKhG4rr6w6iCNxYLXwsSx5IC/view?usp=sharing">MAYOR INFORMACIÓN</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/09/17/dia-internacional-de-igualdad-salarial/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

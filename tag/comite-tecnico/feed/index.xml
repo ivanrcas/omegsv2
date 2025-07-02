@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>comité técnico &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Mon, 30 Jun 2025 23:24:11 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>comité técnico &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Primer Comité Técnico OMEGS</title>
+		<link>./../../../2024/11/21/primer-comite-tecnico-omegs/index.html</link>
+					<comments>./../../../2024/11/21/primer-comite-tecnico-omegs/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Thu, 21 Nov 2024 05:00:00 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[comité técnico]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1235</guid>
+
+					<description><![CDATA[OMEGS reúne al Comité Técnico Interinstitucional en su compromiso con la Política Pública de Mujer y Equidad de Géneros de Santander ]]></description>
+										<content:encoded><![CDATA[
+<p>El Observatorio de Mujeres y Equidad de Género de Santander (OMEGS) reunió a delegadas y delegados de la Secretaría de la Mujer, Secretaría de Salud, Secretaría de Planeación, Procuraduría, Defensoría, Policía Nacional y la Academia para socializar el Decreto 697 de 2023, por el cual se crea el Comité Técnico Interinstitucional.</p>
+
+
+
+<p>El principal propósito de este comité es orientar los procesos de generación de información continua, suficiente y confiable que permita dar cumplimiento al Plan Decenal de Igualdad de Oportunidades (PIO) 2020-2029. Además, busca que la información producida por el Observatorio tenga un impacto directo en los procesos institucionales y la planificación territorial.</p>
+
+
+
+<p>Como parte de su compromiso, el OMEGS enfatiza en la importancia de visibilizar realidades que frecuentemente permanecen ocultas, por lo que a través del análisis riguroso de datos, se propone identificar y abordar situaciones que afectan diariamente a mujeres y niñas en el departamento de Santander.</p>
+
+
+
+<p>Para conocer más sobre este Comité, pueden acceder al Decreto 697 de 2023 siguiendo el enlace:<br><a href="https://santander.gov.co/documentos/3566/por-el-cual-se-crea-el-comite-interinstitucional-del-observatorio-de-mujeres-y-equidad-de-genero-de-santander/" target="_blank" rel="noreferrer noopener">https://santander.gov.co/documentos/3566/por-el-cual-se-crea-el-comite-interinstitucional-del-observatorio-de-mujeres-y-equidad-de-genero-de-santander/</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2024/11/21/primer-comite-tecnico-omegs/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>conversatorio &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Mon, 30 Jun 2025 18:36:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>conversatorio &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Conversatorio: un grito hacia la independencia económica</title>
+		<link>./../../../2022/11/24/conversatorio-un-grito-hacia-la-independencia-economica/index.html</link>
+					<comments>./../../../2022/11/24/conversatorio-un-grito-hacia-la-independencia-economica/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Thu, 24 Nov 2022 05:00:00 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[conversatorio]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1211</guid>
+
+					<description><![CDATA[Conversatorio: un grito hacia la independencia económica]]></description>
+										<content:encoded><![CDATA[
+<p>CONVERSATORIO:</p>
+
+
+
+<p>UN GRITO HACIA LA INDEPENDENCIA ECONÓMICA.</p>
+
+
+
+<p>Hora: 2:00 &#8211; 5:00 p.m.</p>
+
+
+
+<p>Lugar: Auditorio Fenalco.</p>
+
+
+
+<p>(Cra. 20 # 36 &#8211; 49 Bqa)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2022/11/24/conversatorio-un-grito-hacia-la-independencia-economica/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>reunión &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Tue, 01 Jul 2025 00:28:05 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>reunión &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Reunión con ARN</title>
+		<link>./../../../2024/09/24/reunion-con-arn/index.html</link>
+					<comments>./../../../2024/09/24/reunion-con-arn/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ivan Castillo]]></dc:creator>
+		<pubDate>Tue, 24 Sep 2024 05:00:00 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Encuentro]]></category>
+		<category><![CDATA[reunión]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1291</guid>
+
+					<description><![CDATA[Trabajamos en alianza con las instituciones del Estado, esta vez, junto con la Agencia para la Reincorporación y la Normalización]]></description>
+										<content:encoded><![CDATA[
+<p>El día 24 de septiembre nos encontramos con la ARN para hablar sobre el informe temático que pretende abordar la situación de las mujeres en proceso de reincorporación en Santander. Seguimos trabajando para facilitar la vinculación de todos los actores de la sociedad, aportando información veraz y oportuna que contribuya a alcanzar este gran objetivo común.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2024/09/24/reunion-con-arn/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
